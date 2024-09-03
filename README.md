@@ -10,7 +10,7 @@ It serves as a basic template for beginners to understand how to create a graphi
 - Pieces are placed according to standard chess rules.
   
 
- **Installation**\
+ **Installation**
 1. Clone the repository:
    ```bash
    git clone https://github.com/Fakiha098/chessboard.git
